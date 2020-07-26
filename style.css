@@ -1,0 +1,16 @@
+body {
+    background-color: #7aadbf;
+    background-image: url('https://images.homedepot-static.com/productImages/53b84a3e-7e5b-4d11-9824-2c79922caf7d/svn/graham-brown-wallpaper-51-058-64_600.jpg');
+    background-size: contain;
+    overflow: hidden;
+  }
+  .element {
+    width: 15vh;
+    max-width: 25vw;
+    position: relative;
+    left: 300px;
+    top: 100px;
+    transition: all 5s ease-out;
+  }
+  
+  
